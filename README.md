@@ -1,0 +1,2 @@
+# blog
+IT Resource Blog
